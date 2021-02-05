@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Pacifico', cursive;
+}
+body {
+    text-align: center;
+    background: linear-gradient(#75cfb8 0%, #bbdfc8 100%);
+}
+.section-style {
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+img {
+    width: 400px;
+    height: 350px;
+    border-radius: 15px;
+}
+p {
+    background-color: white;
+}
